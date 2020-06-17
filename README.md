@@ -8,5 +8,5 @@ Changelog
 
 26/5/2020
 -release
--update path sound
--upadte sound
+ -update path sound
+ -upadate sound
