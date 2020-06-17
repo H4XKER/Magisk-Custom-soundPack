@@ -1,0 +1,7 @@
+id=Custom_Sound_Pack
+name=Custom Sound Pack
+version=v1B
+versionCode=1
+author=H4XKER
+description=This module adds soundpack sounds to any ROM, systemlessly.
+minMagisk=17000
